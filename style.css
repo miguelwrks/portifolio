@@ -1,0 +1,21 @@
+.periodizacao {
+    display: flex;
+    flex-direction: column;
+}
+
+.left {
+        
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(232, 176, 107);
+    padding-top: 1rem;
+
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    align-items: self-end;
+    background-color: rgb(43, 90, 16);
+    padding-top: 1rem;
+}
