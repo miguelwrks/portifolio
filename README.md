@@ -1,11 +1,6 @@
-# 🌟 Portfólio Profissional — mii.dev
+# 🌟 Portfólio Profissional — mii.dev (**Miguel Silva Gonçalves**)
 
-## 👤 Nome do Aluno
-**Miguel Silva Gonçalves**
-
----
-
-## 💻 Descrição do Portfólio
+## Descrição do Portfólio
 Este projeto consiste em um **Portfólio Profissional** desenvolvido com foco acadêmico para a área de desenvolvimento de sistemas. O site foi estruturado para apresentar o perfil profissional, objetivos, competências técnicas, links para contato e uma seção dedicada à exibição de projetos realizados (incluindo aplicações em Python e páginas web interativas).
 
 ---
@@ -22,7 +17,7 @@ Este projeto consiste em um **Portfólio Profissional** desenvolvido com foco ac
 
 ## 🔗 Link do Site Publicado
 Você pode acessar o site publicado através do link:  
-👉 [Portfólio Pessoal (GitHub Pages)](https://miguelwrks.github.io/portifolio/)
+--> [Portfólio Pessoal (GitHub Pages)](https://miguelwrks.github.io/portifolio/)
 
 ---
 
