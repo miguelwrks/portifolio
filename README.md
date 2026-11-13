@@ -5,7 +5,7 @@ Este projeto consiste em um **Portfólio Profissional** desenvolvido com foco ac
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **HTML5:** Estruturação semântica de todas as páginas e seções.
 * **CSS3:** Estilização personalizada e ajustes visuais.
 * **Bootstrap (v5.3.3):** Framework CSS utilizado para garantir a responsividade do layout, organização em grid, componentes de navegação (navbar, cards, carousel) e utilitários.
@@ -15,13 +15,13 @@ Este projeto consiste em um **Portfólio Profissional** desenvolvido com foco ac
 
 ---
 
-## 🔗 Link do Site Publicado
+## Link do Site Publicado
 Você pode acessar o site publicado através do link:  
 --> [Portfólio Pessoal (GitHub Pages)](https://miguelwrks.github.io/portifolio/)
 
 ---
 
-## ⚙️ Explicação do Funcionamento do Projeto
+## Explicação do Funcionamento do Projeto
 O site é composto por uma página única (*single page* com navegação interna por âncoras) organizada nas seguintes seções principais:
 1. **Menu de Navegação (Navbar):** Fixo no topo da página (*sticky-top*), permitindo transição rápida entre o perfil, projetos, interesses e contato, além de contar com suporte a dispositivos móveis (*responsivo*).
 2. **Carrossel de Imagens:** Um destaque visual dinâmico com transição em fade no topo da página.
@@ -32,12 +32,12 @@ O site é composto por uma página única (*single page* com navegação interna
 
 ---
 
-## ✨ Descrição do Recurso Novo Adicionado
+## Descrição do recurso novo adicionado
 Como recurso adicional, foi implementada uma **Seção de Interesses Pessoais**, que vai além da programação tradicional. Nela, são compartilhados gostos pessoais do autor (como tecnologia/hardware retrô, música pop e leitura de livros) de forma dinâmica e interativa, incorporando vídeos diretamente do YouTube na página por meio de *iframes* embutidos dentro de cards organizados.
 
 ---
 
-## 🚀 Como Esse Recurso Foi Implementado
+## Como esse recurso foi implementado
 A nova seção foi desenvolvida utilizando os seguintes conceitos e tecnologias:
 * **Organização com Bootstrap (`grid` e `cards`):** A seção utiliza o sistema de grid do Bootstrap (`row`, `col-md-6`, `col-xl-4`) combinada com componentes de `card` (`h-100`, `shadow-sm`, `rounded-4`) para manter o alinhamento perfeito, responsividade e o padrão visual do restante do site em diferentes tamanhos de tela (computadores, tablets e celulares).
 * **Incorporação de Vídeos via `<iframe>`:** Foram adicionadas tags `<iframe>` do YouTube dentro dos cards. Cada iframe recebeu o link em formato de incorporação (`/embed/`) fornecido pela plataforma, juntamente com parâmetros de controle de exibição (`title`, `frameborder`, `allowfullscreen`, etc.), permitindo que o usuário assista aos vídeos (sobre o console portátil Trimui Brick, músicas e recomendações de livros) diretamente na página do portfólio sem precisar sair dela.
