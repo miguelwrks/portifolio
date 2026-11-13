@@ -22,7 +22,7 @@ Este projeto consiste em um **Portfólio Profissional** desenvolvido com foco ac
 
 ## 🔗 Link do Site Publicado
 Você pode acessar o site publicado através do link:  
-👉 [Portfólio Pessoal (GitHub Pages)](https://miguelwrks.github.io/portal-entreterimento-digital/)
+👉 [Portfólio Pessoal (GitHub Pages)](https://miguelwrks.github.io/portifolio/))
 
 ---
 
